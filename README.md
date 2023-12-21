@@ -5,8 +5,6 @@
 
 ### 대구 테크노폴리스 주행 데이터
 
-![스크린샷 2023-12-21 100432](https://github.com/dudtj7476/FallbackMRC/assets/87180836/fa3e8562-d051-424c-b085-23da6ccf19d6)
-
  - <a href="https://gofile.me/7eXA5/YcLUFOxPv" > 1. Fallback_eval_D37)</a>
  - <a href="https://gofile.me/7eXA5/w4NqPEg0Y" > 2. Fallback_eval_D38)</a>
  - <a href="https://gofile.me/7eXA5/dNPq4GNFJ" > 3. Fallback_eval_D39)</a>
@@ -14,3 +12,8 @@
  - <a href="https://gofile.me/7eXA5/nEeprC2gy" > 5. Fallback_eval_D41)</a>
  - <a href="https://gofile.me/7eXA5/pfYu1XlB7" > 6. Fallback_eval_D42)</a>
  - <a href="https://gofile.me/7eXA5/h6yAC57x4" > 7. Fallback_eval_D43)</a>
+
+### 데이터 수집 플랫폼 구조
+![스크린샷 2023-12-21 100432](https://github.com/dudtj7476/FallbackMRC/assets/87180836/fa3e8562-d051-424c-b085-23da6ccf19d6)
+
+
