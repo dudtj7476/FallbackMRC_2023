@@ -9,29 +9,31 @@
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/0157fff3-d8ba-4cc0-8e3e-4eef881e06a3)
 
- - <a href="https://gofile.me/7vBui/2obeZxpvW" > 2. Fallback_eval_D38</a>
+ - <a href="https://gofile.me/7vBui/dLJqK84Jz" > 2. Fallback_eval_D38</a>
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/b6bd30eb-f484-4297-b8d1-6730e1e3d0d6)
 
- - <a href="https://gofile.me/7vBui/joCMSHauf" > 3. Fallback_eval_D39</a>
+ - <a href="https://gofile.me/7vBui/COBi8v7wQ" > 3. Fallback_eval_D39</a>
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/cc1d4522-6a05-4e00-baf1-da8218917d01)
 
- - <a href="https://gofile.me/7vBui/eHCG65452" > 4. Fallback_eval_D40</a>
+ - <a href="https://gofile.me/7vBui/cbFKLGUtA" > 4. Fallback_eval_D40</a>
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/925d3caf-c56f-4fdd-92e4-bf7050c59ef4)
 
- - <a href="https://gofile.me/7eXA5/nEeprC2gy" > 5. Fallback_eval_D41</a>
+ - <a href="https://gofile.me/7vBui/7GniMOtkx" > 5. Fallback_eval_D41</a>
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/21901d1f-701b-448e-883e-6e2886a304ee)
 
- - <a href="https://gofile.me/7eXA5/pfYu1XlB7" > 6. Fallback_eval_D42</a>
+ - <a href="https://gofile.me/7vBui/LU7WnCPm7" > 6. Fallback_eval_D42</a>
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/82494b08-303d-4eaa-8521-b7fb985d019f)
 
- - <a href="https://gofile.me/7eXA5/h6yAC57x4" > 7. Fallback_eval_D43</a>
+ - <a href="https://gofile.me/7vBui/AwpBeYYdS" > 7. Fallback_eval_D43</a>
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/183d80c6-1676-447a-b026-193e1c91cc36)
+
+   주행데이터 추가요청: dudtj7476@kiapi.or.kr
 
 #### 데이터 수집 플랫폼 구조
 ![스크린샷 2023-12-21 100432](https://github.com/dudtj7476/FallbackMRC/assets/87180836/fa3e8562-d051-424c-b085-23da6ccf19d6)
