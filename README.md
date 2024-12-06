@@ -9,7 +9,7 @@
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/0157fff3-d8ba-4cc0-8e3e-4eef881e06a3)
 
- - <a href="https://gofile.me/7eXA5/w4NqPEg0Y" > 2. Fallback_eval_D38</a>
+ - <a href="[https://gofile.me/7eXA5/w4NqPEg0Y](https://gofile.me/7vBui/qFiccQYdk)" > 2. Fallback_eval_D38</a>
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/b6bd30eb-f484-4297-b8d1-6730e1e3d0d6)
 
