@@ -33,9 +33,9 @@
  
    ![image](https://github.com/dudtj7476/FallbackMRC/assets/87180836/183d80c6-1676-447a-b026-193e1c91cc36)
 
-**주행데이터 추가요청 문의: dudtj7476@kiapi.or.kr**
-
 #### 데이터 수집 플랫폼 구조
 ![스크린샷 2023-12-21 100432](https://github.com/dudtj7476/FallbackMRC/assets/87180836/fa3e8562-d051-424c-b085-23da6ccf19d6)
+
+**주행데이터 추가요청 문의: dudtj7476@kiapi.or.kr**
 
 
